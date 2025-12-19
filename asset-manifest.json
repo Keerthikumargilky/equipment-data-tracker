@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/equipment-data-tracker/static/css/main.3b71cc2a.css",
-    "main.js": "/equipment-data-tracker/static/js/main.0371f1ca.js",
+    "main.js": "/equipment-data-tracker/static/js/main.75d266b9.js",
     "index.html": "/equipment-data-tracker/index.html",
     "main.3b71cc2a.css.map": "/equipment-data-tracker/static/css/main.3b71cc2a.css.map",
-    "main.0371f1ca.js.map": "/equipment-data-tracker/static/js/main.0371f1ca.js.map"
+    "main.75d266b9.js.map": "/equipment-data-tracker/static/js/main.75d266b9.js.map"
   },
   "entrypoints": [
     "static/css/main.3b71cc2a.css",
-    "static/js/main.0371f1ca.js"
+    "static/js/main.75d266b9.js"
   ]
 }
